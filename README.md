@@ -1,1 +1,1 @@
-# exec_python_estrutura_sequencial
+# exerc_python_estrutura_sequencial
